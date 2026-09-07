@@ -21,47 +21,24 @@
 ### 🧰 BIM & Engineering Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autocad&logoColor=white" />
-  <img src="https://img.shields.io/badge/Revit-186BFF?style=flat&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-autocad?logo=autocad&logoColor=white&color=E51050" title="AutoCAD" />
+  <img src="https://img.shields.io/badge/-autodesk?logo=autodesk&logoColor=white&color=186BFF" title="Revit" />
+  <img src="https://img.shields.io/badge/-autodesk?logo=autodesk&logoColor=white&color=0696D7" title="Autodesk Construction Cloud" />
+  <img src="https://img.shields.io/badge/-twinmotion?logo=twinmotion&logoColor=white&color=000000" title="Twinmotion" />
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/Dynamo-00A6D6?style=flat" />
   <img src="https://img.shields.io/badge/Navisworks-97C93D?style=flat" />
-  <img src="https://img.shields.io/badge/Autodesk%20Construction%20Cloud-0696D7?style=flat&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat" />
   <img src="https://img.shields.io/badge/Primavera%20P6-6E2C8C?style=flat" />
-  <img src="https://img.shields.io/badge/MS%20Project-107C41?style=flat&logo=microsoftproject&logoColor=white" />
-  <img src="https://img.shields.io/badge/Twinmotion-000000?style=flat" />
+  <img src="https://img.shields.io/badge/MS%20Project-107C41?style=flat" />
   <img src="https://img.shields.io/badge/Enscape-FF6600?style=flat" />
 </p>
 
 ### 💻 Software & Automation
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,matlab,vscode,git" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white" />
-</p>
-
-### 📌 Featured Projects
-
-<p align="left">
-  <a href="https://github.com/erayallkan/optimum-design-of-reinforced-concrete-beams">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=erayallkan&repo=optimum-design-of-reinforced-concrete-beams&theme=default" />
-  </a>
-  <a href="https://github.com/erayallkan/AutoQuant">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=erayallkan&repo=AutoQuant&theme=default" />
-  </a>
-  <a href="https://github.com/erayallkan/siteofsight-site">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=erayallkan&repo=siteofsight-site&theme=default" />
-  </a>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=erayallkan&show_icons=true&theme=default&count_private=true" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=erayallkan&layout=compact&theme=default" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=erayallkan&theme=default" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,matlab,vscode" />
+  <img src="https://img.shields.io/badge/-react?logo=react&logoColor=61DAFB&color=20232A" title="React Native" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat" />
 </p>
