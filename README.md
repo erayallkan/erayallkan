@@ -1,7 +1,7 @@
-<h1 align="center">Merhaba 👋 Ben Eray</h1>
+<h1 align="center">Hi 👋 I'm Eray</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Civil+Engineer+%7C+BIM+Key+User;Revit+%2B+Dynamo+%2B+Power+BI+Automation;Digitalizing+Construction%2C+One+Workflow+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Civil+%26+Transportation+Engineer;BIM+Engineer;Revit+%2B+Dynamo+%2B+Power+BI+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,17 +12,13 @@
 
 ---
 
-### 🏗️ Hakkımda
+### 🏗️ About Me
 
-- 👷 İstanbul merkezli bir **İnşaat Mühendisiyim**, **Doka Türkiye**'de Proje Mühendisi ve **BIM Key User** olarak çalışıyorum
-- 🧩 İnşaat mühendisliği altyapısını dijital teknolojilerle birleştiriyorum: Revit, Dynamo, Power BI ve Autodesk Construction Cloud ile veri odaklı, optimize edilmiş iş akışları geliştiriyorum
-- 🤖 "Mühendislikte Yapay Zeka" çalışma grubunda yer alıyor, BIM otomasyonu ve AI entegrasyonu üzerine çalışıyorum
-- 🎓 Yıldız Teknik Üniversitesi'nde **Ulaştırma Tezli Yüksek Lisans** yapıyorum — tez konum: *Raylı Sistemlerde Açık Veri Standartlarının Tasarım ve Bakım Süreçlerine Entegrasyonu*
-- 📄 "Betonarme Kirişlerin Optimum Tasarımı" bitirme projem **Mechanika-2023** uluslararası konferansında yayınlandı ([DOI: 10.5755/e01.2783-5677.2023](https://doi.org/10.5755/e01.2783-5677.2023))
-- 🛰️ İHA1 Ticari İnsansız Hava Aracı Pilotu lisansına sahibim
-- 💬 Bana ulaşmak için: **erayalkan123@gmail.com**
+- 👷 Civil & Transportation Engineer / BIM Engineer
+- 🤖 Interested in AI and its applications in engineering
+- 💬 Reach me at: **erayalkan123@gmail.com**
 
-### 🧰 BIM & Mühendislik Araçları
+### 🧰 BIM & Engineering Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autocad&logoColor=white" />
@@ -37,14 +33,15 @@
   <img src="https://img.shields.io/badge/Enscape-FF6600?style=flat" />
 </p>
 
-### 💻 Yazılım & Otomasyon
+### 💻 Software & Automation
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,py,matlab,vscode,git" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white" />
 </p>
 
-### 📌 Öne Çıkan Projeler
+### 📌 Featured Projects
 
 <p align="left">
   <a href="https://github.com/erayallkan/optimum-design-of-reinforced-concrete-beams">
@@ -58,15 +55,7 @@
   </a>
 </p>
 
-### 🏆 Sertifikalar & Üyelikler
-
-- buildingSMART International — Professional Certification Foundation
-- Plannerly — Level 3 Information Manager, ISO 19650 Expert
-- Temelden İleri Seviyeye Revit — Autodesk
-- Google Agile Project Management — Coursera
-- buildingSMART, BIM4TURKEY, ASCE, TMMOB İMO — Üye
-
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=erayallkan&show_icons=true&theme=default&count_private=true" height="165" />
