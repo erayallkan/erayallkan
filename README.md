@@ -45,23 +45,23 @@
 
 <p align="left">
   <a href="https://github.com/erayallkan/optimum-design-of-reinforced-concrete-beams">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erayallkan&repo=optimum-design-of-reinforced-concrete-beams&theme=default" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=erayallkan&repo=optimum-design-of-reinforced-concrete-beams&theme=default" />
   </a>
   <a href="https://github.com/erayallkan/AutoQuant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erayallkan&repo=AutoQuant&theme=default" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=erayallkan&repo=AutoQuant&theme=default" />
   </a>
   <a href="https://github.com/erayallkan/siteofsight-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erayallkan&repo=siteofsight-site&theme=default" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=erayallkan&repo=siteofsight-site&theme=default" />
   </a>
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=erayallkan&show_icons=true&theme=default&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erayallkan&layout=compact&theme=default" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=erayallkan&show_icons=true&theme=default&count_private=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=erayallkan&layout=compact&theme=default" height="165" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erayallkan&theme=default" />
+  <img src="https://streak-stats.demolab.com/?user=erayallkan&theme=default" />
 </p>
